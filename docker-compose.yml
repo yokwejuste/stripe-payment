@@ -1,0 +1,29 @@
+services:
+  frontend:
+    build: ./frontend
+    container_name: frontend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+    depends_on:
+      - backend
+    env_file:
+      - ./frontend/.env
+    environment:
+      - NODE_ENV=development
+    stdin_open: true
+    tty: true
+
+  backend:
+    container_name: backend
+    build: ./server
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./server:/app
+    env_file:
+      - ./server/.env
+    environment:
+      - FLASK_ENV=development

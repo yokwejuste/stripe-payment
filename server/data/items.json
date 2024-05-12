@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "name": "T-Shirt",
+    "price": "2000",
+    "description": "Comfortable cotton t-shirt",
+    "image_url": "https://thehavenbar.com/wp-content/uploads/2023/05/38189-1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Coffee Mug",
+    "price": "1500",
+    "description": "Keep your drink hot or cold for hours",
+    "image_url": "https://www.webstaurantstore.com/images/products/large/6342/2456543.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Book",
+    "price": "2500",
+    "description": "A must-read for this year",
+    "image_url": "https://cdn.britannica.com/83/78183-004-345353F4/Stack-books.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Sweatshirt",
+    "price": "3000",
+    "description": "Stay warm and cozy all winter long",
+    "image_url": "https://m.media-amazon.com/images/I/61kkQm2FgPL._AC_SL1500_.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Sticker",
+    "price": "100",
+    "description": "Decorate your laptop or notebook",
+    "image_url": "https://m.media-amazon.com/images/I/91n5soEHhLL._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Hat",
+    "price": "2000",
+    "description": "Protect yourself from the sun",
+    "image_url": "https://fordmillinery.com.au/cdn/shop/products/BH-BK.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Socks",
+    "price": "500",
+    "description": "Keep your feet warm and dry",
+    "image_url": "https://howdyhealth.tamu.edu/wp-content/uploads/2023/05/what-are-the-best-socks-for-your-feet-1024x576.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Notebook",
+    "price": "800",
+    "description": "Take notes in style",
+    "image_url": "https://m.media-amazon.com/images/I/71JyKz+8l6L._AC_UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Water Bottle",
+    "price": "1500",
+    "description": "Stay hydrated all day long",
+    "image_url": "https://cdn.thewirecutter.com/wp-content/media/2022/08/water-bottle-2048px-mira.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Tote Bag",
+    "price": "2500",
+    "description": "Carry your essentials in style",
+    "image_url": "https://nguyencoffeesupply.com/cdn/shop/files/reusable-tote-bag-lifestyle-1.jpg"
+  }
+]
